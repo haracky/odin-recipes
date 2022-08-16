@@ -1,0 +1,42 @@
+* {
+    background-color: rgb(245, 245, 218);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+    
+    font-weight: bold;
+    color: rgb(87, 22, 22) ;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+h2 {
+    font-size: 35px;
+    text-align: left;
+}
+
+ul {
+    font-size: 20px;
+    color: chocolate;
+
+}
+
+ol {
+    font-size: 20px;
+    list-style-type: upper-roman;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+ul.recipe a{
+}
+
+ul.ingredients {
+}
+
